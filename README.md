@@ -8,8 +8,8 @@
 - **Project Management:** Jira, Scrum Master, Agile methodologies
 - **Business Analytics:** Supply Chain, Finance, Commercial Sales, Preventive Maintenance
 
-## Relevant Education
-- **MTech, AI & ML**	               | BITS, Pilani (_pursuing_)	 			        		
+## Relevant Education:
+- **MTech, AI & ML**	               | BITS, Pilani (_pursuing_)
 - **Bachelor's, Computer Engineering** | Pune University (_May 2017_)
 
 ## Work Experience
